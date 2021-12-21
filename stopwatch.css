@@ -1,0 +1,80 @@
+body{
+    background:rgb(255, 174, 0);
+}
+#stopwa{
+    text-align:center;
+    text-transform:uppercase;
+    color:white;
+    margin:30px 0;
+    font-size:40px;
+    font-family:arial,Helvetica,sans-serif;
+}
+#van{
+    text-align:center;
+    text-transform:uppercase;
+    color:white;
+    margin:30px 0;
+    font-size:40px;
+    font-family:arial,Helvetica,sans-serif;
+    word-spacing:5px;
+}
+#tim{
+    text-align:center;
+    text-transform:uppercase;
+    color:white;
+    margin:30px 0;
+    font-size:35px;
+}
+#start{
+    color:white;
+    background:orange;
+    text-align:center;
+    border:1px solid white;
+    border-radius:5%;
+    padding:15px 60px;
+    margin-left:60px;
+    margin-right:10px;
+    font-size:25px;
+    text-transform:capitalize;
+    transition:all 300ms linear;
+}
+#start:hover{
+    color:orange;
+    background:white;
+}
+#stop{
+    color:white;
+    background:orange;
+    text-align:center;
+    border:1px solid white;
+    border-radius:5%;
+    padding:15px 60px;
+    margin-left:10px;
+    margin-right:10px;
+    font-size:25px;
+    text-transform:capitalize;
+    transition:all 300ms linear;
+}
+#stop:hover{
+    color:orange;
+    background:white;
+}
+
+
+#reset{
+    color:white;
+    background:orange;
+    text-align:center;
+    border:1px solid white;
+    border-radius:5%;
+    padding:15px 60px;
+    margin-left:10px;
+    margin-right:30px;
+    font-size:25px;    
+    text-transform:capitalize;
+    transition:all 300ms linear;
+}
+#reset:hover{
+    color:orange;
+    background:white;
+}
